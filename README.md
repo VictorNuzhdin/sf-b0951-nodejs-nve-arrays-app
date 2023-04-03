@@ -5,7 +5,7 @@ For Skill Factory study project (B9, Task B9.5.1) (nodejs app)
 
 ### Dependencies
 
-* "nve-arrays" (["@npm_repo"](https://www.npmjs.com/package/nve-arrays), ["@github_repo"](https://github.com/VictorNuzhdin/sf-task951-nodejs-nve-arrays-package))
+* "nve-arrays" ([npm_repo](https://www.npmjs.com/package/nve-arrays), [github_repo](https://github.com/VictorNuzhdin/sf-task951-nodejs-nve-arrays-package))
 
 ### Install Dependencies
 
